@@ -1,6 +1,6 @@
 OOPS TASK:
 
-Telugu Stream App - Python Streaming Platform
+Stream App - Python Streaming Platform
 
 This Python task simulates a streaming platform with user registration, login, and subscription management.  
 
